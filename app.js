@@ -4,7 +4,7 @@
 const appData = {
   "hydrogenAssets": [
     {
-      "id": "h1",
+      "id": "h1", 
       "name": "Northern Green H2 Plant",
       "type": "production",
       "coordinates": [51.5074, -0.1278],
